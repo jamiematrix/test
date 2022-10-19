@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/public_html/test/output/
+    - export DEPLOYPATH=/home/matrixcreateco/test/output/
     - /bin/cp test.txt $DEPLOYPATH
